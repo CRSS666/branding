@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 234.91 139.27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a6ce38;
+      }
+
+      .cls-2 {
+        fill: #0282c6;
+      }
+
+      .cls-3 {
+        fill: #ed1c24;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2.5px;
+      }
+    </style>
+  </defs>
+  <g id="Vector">
+    <g id="Redone_Rails" data-name="Redone Rails">
+      <g id="New_Rails" data-name="New Rails">
+        <g>
+          <rect id="Green_Square" data-name="Green Square" class="cls-1" x="6.86" y="22.02" width="76.93" height="76.93" rx="16" ry="16" transform="translate(-19.6 21.78) rotate(-22.35)"/>
+          <rect id="Rail_1" class="cls-4" x="22.95" y="36.01" width="7.07" height="66.07" rx="3.54" ry="3.54" transform="translate(75.58 124.35) rotate(159.4)"/>
+          <rect id="Rail_2" class="cls-4" x="60.93" y="19.26" width="7.07" height="66.07" rx="3.54" ry="3.54" transform="translate(143.21 78.55) rotate(159.4)"/>
+          <rect id="Rail_3" class="cls-4" x="42.37" y="27.18" width="6.15" height="66.07" rx="3.07" ry="3.07" transform="translate(5.08 123.93) rotate(-110.6)"/>
+          <rect id="Rail_4" class="cls-4" x="33.65" y="3.9" width="6.11" height="66.07" rx="3.05" ry="3.05" transform="translate(15.04 84.28) rotate(-110.6)"/>
+          <rect id="Rail_5" class="cls-4" x="50.94" y="49.8" width="6.01" height="66.07" rx="3.01" ry="3.01" transform="translate(-4.61 162.48) rotate(-110.6)"/>
+        </g>
+        <g id="Red_Rail" data-name="Red Rail">
+          <rect id="Green_Square-2" data-name="Green Square" class="cls-3" x="151.12" y="6.86" width="76.93" height="76.93" rx="16" ry="16" transform="translate(-2.99 75.51) rotate(-22.35)"/>
+          <rect id="Rail_1-2" data-name="Rail_1" class="cls-4" x="167.22" y="20.85" width="7.07" height="66.07" rx="3.54" ry="3.54" transform="translate(349.55 44.25) rotate(159.4)"/>
+          <rect id="Rail_2-2" data-name="Rail_2" class="cls-4" x="205.2" y="4.1" width="7.07" height="66.07" rx="3.54" ry="3.54" transform="translate(417.18 -1.55) rotate(159.4)"/>
+          <rect id="Rail_3-2" data-name="Rail_3" class="cls-4" x="186.63" y="12.02" width="6.15" height="66.07" rx="3.07" ry="3.07" transform="translate(214.28 238.48) rotate(-110.6)"/>
+          <rect id="Rail_4-2" data-name="Rail_4" class="cls-4" x="177.91" y="-11.25" width="6.11" height="66.07" rx="3.05" ry="3.05" transform="translate(224.24 198.83) rotate(-110.6)"/>
+          <rect id="Rail_5-2" data-name="Rail_5" class="cls-4" x="195.21" y="34.64" width="6.01" height="66.07" rx="3.01" ry="3.01" transform="translate(204.6 277.02) rotate(-110.6)"/>
+        </g>
+        <g id="Blue_Rail" data-name="Blue Rail">
+          <rect id="Green_Square-3" data-name="Green Square" class="cls-2" x="81.73" y="55.42" width="76.93" height="76.93" rx="16" ry="16" transform="translate(45.42 -39.04) rotate(22.65)"/>
+          <rect id="Rail_1-3" data-name="Rail_1" class="cls-4" x="97.28" y="53.59" width="7.07" height="66.07" rx="3.54" ry="3.54" transform="translate(156.85 207.17) rotate(-155.6)"/>
+          <rect id="Rail_2-3" data-name="Rail_2" class="cls-4" x="135.99" y="68.6" width="7.07" height="66.07" rx="3.54" ry="3.54" transform="translate(224.59 251.83) rotate(-155.6)"/>
+          <rect id="Rail_3-3" data-name="Rail_3" class="cls-4" x="117.4" y="60.75" width="6.15" height="66.07" rx="3.07" ry="3.07" transform="translate(-14.7 164.75) rotate(-65.6)"/>
+          <rect id="Rail_4-3" data-name="Rail_4" class="cls-4" x="127.69" y="38.11" width="6.11" height="66.07" rx="3.05" ry="3.05" transform="translate(11.94 160.81) rotate(-65.6)"/>
+          <rect id="Rail_5-3" data-name="Rail_5" class="cls-4" x="107.48" y="82.76" width="6.01" height="66.07" rx="3.01" ry="3.01" transform="translate(-40.61 168.57) rotate(-65.6)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
