@@ -238,6 +238,9 @@
     </clipPath>
   </defs>
   <rect class="cls-51" width="595.28" height="841.89"/>
+  <g id="bg">
+    <rect class="cls-51" width="595.28" height="841.89"/>
+  </g>
   <g id="Main_Map" data-name="Main Map">
     <g class="cls-62">
       <rect class="cls-51" x="-39.82" y="-21.53" width="674.91" height="674.91"/>
