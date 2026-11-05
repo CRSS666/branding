@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Box_Things" data-name="Box Things" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #ff80c0;
+      }
+    </style>
+  </defs>
+  <g id="Line_1" data-name="Line 1">
+    <rect class="cls-2" width="12" height="12"/>
+    <path class="cls-1" d="M8.17,1.63v8.73h-2.37V3.67h-.06l-1.91,1.29v-2.02l1.96-1.31h2.38Z"/>
+  </g>
+</svg>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5, .cls-6, .cls-3, .cls-7, .cls-8 {
+        stroke: #fff;
+      }
+
+      .cls-5, .cls-6, .cls-3, .cls-9, .cls-8 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-5, .cls-6, .cls-8 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-5, .cls-10 {
+        fill: #f0ce15;
+      }
+
+      .cls-6, .cls-9 {
+        fill: #b9b9b9;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3, .cls-9 {
+        stroke-width: 6px;
+      }
+
+      .cls-7 {
+        stroke-dasharray: 6;
+      }
+
+      .cls-7, .cls-13 {
+        fill: none;
+        stroke-linejoin: round;
+        stroke-width: 12px;
+      }
+
+      .cls-9 {
+        stroke: #b9b9b9;
+      }
+
+      .cls-8 {
+        fill: #df8600;
+      }
+
+      .cls-14, .cls-4 {
+        font-family: Inter-Bold, Inter;
+        font-size: 12px;
+        font-variation-settings: 'opsz' 14, 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-16 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-17 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-13 {
+        stroke: #f0ce15;
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" width="640" height="640"/>
+  <g id="Lines">
+    <g id="Lines-2" data-name="Lines">
+      <g id="Line_4_-_Yellow_GREAT_" data-name="Line 4 - Yellow (GREAT)">
+        <line class="cls-13" x1="227" y1="591.5" x2="227" y2="40.5"/>
+        <line class="cls-13" x1="227" y1="280.5" x2="419" y2="280.5"/>
+      </g>
+    </g>
+    <g id="WIP">
+      <line id="Yellow_WIP" data-name="Yellow WIP" class="cls-7" x1="227" y1="593.5" x2="227" y2="448.5"/>
+    </g>
+    <g id="Stations">
+      <g id="Integrations">
+        <g id="Eldorado_GREAT" data-name="Eldorado GREAT">
+          <rect class="cls-9" x="407" y="275.5" width="24" height="11" rx="5.5" ry="5.5"/>
+          <rect class="cls-3" x="407" y="274.73" width="24" height="11" rx="5.5" ry="5.5"/>
+          <circle class="cls-5" cx="412.5" cy="280" r="5.5"/>
+          <circle class="cls-8" cx="425.5" cy="280" r="5.5"/>
+        </g>
+        <g id="Ki_GREAT" data-name="Ki GREAT">
+          <rect class="cls-9" x="215.5" y="35" width="24" height="11" rx="5.5" ry="5.5" transform="translate(187 268) rotate(-90)"/>
+          <rect class="cls-3" x="214.73" y="35" width="24" height="11" rx="5.5" ry="5.5" transform="translate(186.23 267.23) rotate(-90)"/>
+          <circle class="cls-5" cx="226.5" cy="47" r="5.5"/>
+          <circle class="cls-6" cx="226.5" cy="34" r="5.5"/>
+        </g>
+        <g id="Haunt_Muskie_GREAT" data-name="Haunt Muskie GREAT">
+          <rect class="cls-9" x="215.5" y="587" width="24" height="11" rx="5.5" ry="5.5" transform="translate(-365 820) rotate(-90)"/>
+          <rect class="cls-3" x="214.73" y="587" width="24" height="11" rx="5.5" ry="5.5" transform="translate(-365.77 819.23) rotate(-90)"/>
+          <circle class="cls-6" cx="226.5" cy="599" r="5.5"/>
+          <circle class="cls-5" cx="226.5" cy="586" r="5.5"/>
+        </g>
+      </g>
+      <g id="Line_4" data-name="Line 4">
+        <g>
+          <circle class="cls-2" cx="227" cy="448.5" r="5.25"/>
+          <path class="cls-10" d="M227,444c2.48,0,4.5,2.02,4.5,4.5s-2.02,4.5-4.5,4.5-4.5-2.02-4.5-4.5,2.02-4.5,4.5-4.5h0ZM227,442.5c-3.31,0-6,2.69-6,6s2.69,6,6,6,6-2.69,6-6-2.69-6-6-6h0Z"/>
+        </g>
+        <g>
+          <circle class="cls-2" cx="227" cy="280.5" r="5.25"/>
+          <path class="cls-10" d="M227,276c2.48,0,4.5,2.02,4.5,4.5s-2.02,4.5-4.5,4.5-4.5-2.02-4.5-4.5,2.02-4.5,4.5-4.5h0ZM227,274.5c-3.31,0-6,2.69-6,6s2.69,6,6,6,6-2.69,6-6-2.69-6-6-6h0Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Text">
+    <text class="cls-14" transform="translate(435 284.5)"><tspan x="0" y="0">Eldo</tspan><tspan class="cls-17" x="25.46" y="0">r</tspan><tspan x="30.19" y="0">ado</tspan></text>
+    <text class="cls-14" transform="translate(134.78 282.5)"><tspan x="0" y="0">Fl</tspan><tspan class="cls-15" x="10.29" y="0">o</tspan><tspan x="17.77" y="0">ating </tspan><tspan class="cls-16" x="50.28" y="0">T</tspan><tspan class="cls-1" x="57.61" y="0">r</tspan><tspan x="62.2" y="0">ees</tspan></text>
+    <text class="cls-14" transform="translate(235 452.5)"><tspan x="0" y="0">Conc</tspan><tspan class="cls-1" x="30.77" y="0">r</tspan><tspan x="35.36" y="0">e</tspan><tspan class="cls-11" x="42.51" y="0">t</tspan><tspan x="46.79" y="0">e Halls</tspan></text>
+    <text class="cls-14" transform="translate(186.58 618.5)"><tspan x="0" y="0">Haunt Muskie</tspan></text>
+    <text class="cls-14" transform="translate(221.01 21.5)"><tspan class="cls-12" x="0" y="0">K</tspan><tspan x="8.72" y="0">i</tspan></text>
+  </g>
+  <g id="Box_Things" data-name="Box Things">
+    <g id="Line_4-2" data-name="Line 4">
+      <rect class="cls-10" x="205" y="288.5" width="12" height="12"/>
+      <text class="cls-4" transform="translate(206.94 298.5)"><tspan x="0" y="0">4</tspan></text>
+    </g>
+  </g>
+</svg>

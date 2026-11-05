@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #df8600;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 12px;
+      }
+
+      .cls-2 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-3 {
+        fill: #716f6f;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11, .cls-12 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-9, .cls-10, .cls-11, .cls-12 {
+        stroke: #fff;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-7, .cls-9, .cls-10, .cls-11, .cls-12 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-13, .cls-6, .cls-14 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: #f0ce15;
+      }
+
+      .cls-5, .cls-8 {
+        fill: #b9b9b9;
+      }
+
+      .cls-6, .cls-8 {
+        stroke-width: 6px;
+      }
+
+      .cls-15, .cls-9 {
+        fill: #df8600;
+      }
+
+      .cls-7 {
+        fill: #ff80c0;
+      }
+
+      .cls-8 {
+        stroke: #b9b9b9;
+      }
+
+      .cls-16 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-17 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-18, .cls-14 {
+        font-family: Inter-Bold, Inter;
+        font-size: 12px;
+        font-variation-settings: 'opsz' 14, 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-10 {
+        fill: #1495d4;
+      }
+
+      .cls-11 {
+        fill: #00b251;
+      }
+
+      .cls-12 {
+        fill: #bd1038;
+      }
+
+      .cls-19 {
+        letter-spacing: -.01em;
+      }
+    </style>
+  </defs>
+  <rect class="cls-13" width="512" height="512"/>
+  <g id="Lines">
+    <g id="Lines-2" data-name="Lines">
+      <g id="Line_0_-_Orange_GREAT_" data-name="Line 0 - Orange (GREAT)">
+        <polygon class="cls-1" points="244 108.61 149 108.61 149 324.34 293 324.61 293 396.61 388.73 396.61 389 252.61 269 252.61 269 108.61 244 108.61"/>
+      </g>
+    </g>
+    <g id="Stations">
+      <g id="Integrations">
+        <g id="Eldorado_GREAT" data-name="Eldorado GREAT">
+          <rect class="cls-8" x="137" y="247.61" width="24" height="11" rx="5.5" ry="5.5"/>
+          <rect class="cls-6" x="137" y="246.84" width="24" height="11" rx="5.5" ry="5.5"/>
+          <circle class="cls-4" cx="142.5" cy="252.11" r="5.5"/>
+          <circle class="cls-9" cx="155.5" cy="252.11" r="5.5"/>
+        </g>
+        <g id="Tilapia_GREAT" data-name="Tilapia GREAT">
+          <rect class="cls-8" x="197.5" y="103.11" width="24" height="11" rx="5.5" ry="5.5" transform="translate(100.89 318.11) rotate(-90)"/>
+          <rect class="cls-6" x="196.73" y="103.11" width="24" height="11" rx="5.5" ry="5.5" transform="translate(100.12 317.34) rotate(-90)"/>
+          <circle class="cls-9" cx="208.5" cy="115.11" r="5.5"/>
+          <circle class="cls-7" cx="208.5" cy="102.11" r="5.5"/>
+        </g>
+        <g id="Faux_Plains_GREAT" data-name="Faux Plains GREAT">
+          <rect class="cls-8" x="377.5" y="247.11" width="24" height="11" rx="5.5" ry="5.5" transform="translate(136.89 642.11) rotate(-90)"/>
+          <rect class="cls-6" x="376.73" y="247.11" width="24" height="11" rx="5.5" ry="5.5" transform="translate(136.12 641.34) rotate(-90)"/>
+          <circle class="cls-9" cx="388.5" cy="259.11" r="5.5"/>
+          <circle class="cls-11" cx="388.5" cy="246.11" r="5.5"/>
+        </g>
+        <g id="Haggstrom_GREAT_BT" data-name="Haggstrom GREAT &amp;amp; BT">
+          <rect class="cls-8" x="377.5" y="391.11" width="24" height="11" rx="5.5" ry="5.5" transform="translate(-7.11 786.11) rotate(-90)"/>
+          <rect class="cls-6" x="376.73" y="391.11" width="24" height="11" rx="5.5" ry="5.5" transform="translate(-7.88 785.34) rotate(-90)"/>
+          <circle class="cls-5" cx="388.5" cy="403.11" r="5.5"/>
+          <circle class="cls-9" cx="388.5" cy="390.11" r="5.5"/>
+        </g>
+        <g id="Evo_GREAT_BT_TL" data-name="Evo GREAT &amp;amp; BT &amp;amp; TL">
+          <rect class="cls-8" x="118" y="319.61" width="49" height="11" rx="5.5" ry="5.5"/>
+          <rect class="cls-6" x="118" y="318.84" width="49" height="11" rx="5.5" ry="5.5"/>
+          <circle class="cls-12" cx="136" cy="324.11" r="5.5"/>
+          <circle class="cls-9" cx="149" cy="324.11" r="5.5"/>
+          <circle class="cls-3" cx="162" cy="324.11" r="5.5"/>
+          <circle class="cls-10" cx="122.5" cy="324.11" r="5.5"/>
+        </g>
+      </g>
+      <g id="Line_0" data-name="Line 0">
+        <g>
+          <circle class="cls-13" cx="269" cy="324.61" r="5.25"/>
+          <path class="cls-15" d="M269,320.11c2.48,0,4.5,2.02,4.5,4.5s-2.02,4.5-4.5,4.5-4.5-2.02-4.5-4.5,2.02-4.5,4.5-4.5h0ZM269,318.61c-3.31,0-6,2.69-6,6s2.69,6,6,6,6-2.69,6-6-2.69-6-6-6h0Z"/>
+        </g>
+        <g>
+          <circle class="cls-13" cx="269" cy="180.61" r="5.25"/>
+          <path class="cls-15" d="M269,176.11c2.48,0,4.5,2.02,4.5,4.5s-2.02,4.5-4.5,4.5-4.5-2.02-4.5-4.5,2.02-4.5,4.5-4.5h0ZM269,174.61c-3.31,0-6,2.69-6,6s2.69,6,6,6,6-2.69,6-6-2.69-6-6-6h0Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Text">
+    <text class="cls-18" transform="translate(189.37 86.61)"><tspan x="0" y="0">Tilapia</tspan></text>
+    <text class="cls-18" transform="translate(79.92 256.61)"><tspan x="0" y="0">Eldo</tspan><tspan class="cls-19" x="25.46" y="0">r</tspan><tspan x="30.19" y="0">ado</tspan></text>
+    <text class="cls-18" transform="translate(137.77 348.61)"><tspan x="0" y="0">E</tspan><tspan class="cls-17" x="7.29" y="0">v</tspan><tspan x="14.27" y="0">o </tspan></text>
+    <text class="cls-18" transform="translate(257.41 348.61)"><tspan x="0" y="0">Oak</tspan></text>
+    <text class="cls-18" transform="translate(355.94 425.39)"><tspan x="0" y="0">Haggst</tspan><tspan class="cls-2" x="42.21" y="0">r</tspan><tspan x="46.8" y="0">om</tspan></text>
+    <text class="cls-18" transform="translate(356.24 232.61)"><tspan class="cls-16" x="0" y="0">F</tspan><tspan x="6.84" y="0">aux Plains</tspan></text>
+    <text class="cls-18" transform="translate(277 184.61)"><tspan class="cls-16" x="0" y="0">F</tspan><tspan x="6.84" y="0">aux Tilapia</tspan></text>
+  </g>
+  <g id="Box_Things" data-name="Box Things">
+    <g id="Line_0-2" data-name="Line 0">
+      <rect class="cls-15" x="277" y="232.61" width="12" height="12"/>
+      <text class="cls-14" transform="translate(278.95 242.61)"><tspan x="0" y="0">0</tspan></text>
+    </g>
+  </g>
+</svg>

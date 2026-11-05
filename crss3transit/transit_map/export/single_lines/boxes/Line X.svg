@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Box_Things" data-name="Box Things" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: Inter-Black, Inter;
+        font-size: 12px;
+        font-variation-settings: 'opsz' 14, 'wght' 900;
+        font-weight: 800;
+      }
+
+      .cls-2 {
+        fill: blue;
+      }
+    </style>
+  </defs>
+  <g id="Line_X" data-name="Line X">
+    <rect class="cls-2" width="12" height="12"/>
+    <text class="cls-1" transform="translate(1.28 10)"><tspan x="0" y="0">X</tspan></text>
+  </g>
+</svg>

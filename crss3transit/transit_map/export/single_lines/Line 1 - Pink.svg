@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: InterItalic-BoldItalic, Inter;
+        font-size: 6px;
+        font-style: italic;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        font-variation-settings: 'opsz' 14, 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: #ff80c0;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 12px;
+      }
+
+      .cls-6 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-7 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-8, .cls-9, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-10, .cls-9, .cls-11, .cls-12, .cls-13, .cls-14, .cls-15 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-10, .cls-9, .cls-11, .cls-13, .cls-14, .cls-15 {
+        stroke: #fff;
+      }
+
+      .cls-10, .cls-11, .cls-13, .cls-14, .cls-15 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-10, .cls-12 {
+        fill: #b9b9b9;
+      }
+
+      .cls-16 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9, .cls-12 {
+        stroke-width: 6px;
+      }
+
+      .cls-11, .cls-17 {
+        fill: #ff80c0;
+      }
+
+      .cls-18, .cls-3, .cls-4 {
+        font-family: Inter-Bold, Inter;
+        font-size: 12px;
+      }
+
+      .cls-12 {
+        stroke: #b9b9b9;
+      }
+
+      .cls-13 {
+        fill: #df8600;
+      }
+
+      .cls-14 {
+        fill: #00b251;
+      }
+
+      .cls-15 {
+        fill: #706f6f;
+      }
+    </style>
+  </defs>
+  <rect class="cls-8" width="192" height="192"/>
+  <g id="Lines">
+    <g id="Lines-2" data-name="Lines">
+      <g id="Line_1_-_Pink_GREAT_" data-name="Line 1 - Pink (GREAT)">
+        <polyline class="cls-5" points="131.16 139 131.16 56 95.16 56"/>
+      </g>
+    </g>
+    <g id="Stations">
+      <g id="Integrations">
+        <g id="Tilapia_GREAT" data-name="Tilapia GREAT">
+          <rect class="cls-12" x="119.66" y="133.5" width="24" height="11" rx="5.5" ry="5.5" transform="translate(-7.34 270.66) rotate(-90)"/>
+          <rect class="cls-9" x="118.89" y="133.5" width="24" height="11" rx="5.5" ry="5.5" transform="translate(-8.11 269.89) rotate(-90)"/>
+          <circle class="cls-13" cx="130.66" cy="145.5" r="5.5"/>
+          <circle class="cls-11" cx="130.66" cy="132.5" r="5.5"/>
+        </g>
+        <g>
+          <rect class="cls-12" x="71.66" y="44.5" width="48" height="11" rx="5.5" ry="5.5" transform="translate(45.66 145.66) rotate(-90)"/>
+          <rect class="cls-9" x="70.89" y="44.5" width="48" height="11" rx="5.5" ry="5.5" transform="translate(44.89 144.89) rotate(-90)"/>
+          <circle class="cls-15" cx="94.66" cy="68.5" r="5.5"/>
+          <circle class="cls-11" cx="94.66" cy="56.48" r="5.5"/>
+          <circle class="cls-14" cx="94.66" cy="43.5" r="5.5"/>
+          <circle class="cls-10" cx="94.66" cy="31.5" r="5.5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Text">
+    <text class="cls-2" transform="translate(25.59 47.37)"><tspan class="cls-18"><tspan x="0" y="0">Bela Vis</tspan><tspan class="cls-16" x="47.08" y="0">t</tspan><tspan x="51.53" y="0">a</tspan></tspan><tspan class="cls-1"><tspan x="5.17" y="7.2">GRE</tspan><tspan class="cls-6" x="17.29" y="7.2">A</tspan><tspan x="21.23" y="7.2">T &amp; Belat</tspan><tspan class="cls-7" x="47.35" y="7.2">r</tspan><tspan x="49.65" y="7.2">o</tspan></tspan></text>
+    <text class="cls-3" transform="translate(111.53 166)"><tspan x="0" y="0">Tilapia</tspan></text>
+  </g>
+  <g id="Box_Things" data-name="Box Things">
+    <g id="Line_1" data-name="Line 1">
+      <rect class="cls-17" x="107.16" y="68" width="12" height="12"/>
+      <text class="cls-4" transform="translate(110.57 78)"><tspan x="0" y="0">1</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 384">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: InterItalic-BoldItalic, Inter;
+        font-size: 6px;
+        font-style: italic;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #00b251;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        font-variation-settings: 'opsz' 14, 'wght' 700;
+        font-weight: 700;
+      }
+
+      .cls-7 {
+        letter-spacing: -.09em;
+      }
+
+      .cls-8 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-9 {
+        stroke-linecap: round;
+      }
+
+      .cls-9, .cls-10 {
+        fill: none;
+        stroke-linejoin: round;
+      }
+
+      .cls-9, .cls-10, .cls-11 {
+        stroke-width: 12px;
+      }
+
+      .cls-9, .cls-11 {
+        stroke: #00b251;
+      }
+
+      .cls-12, .cls-13, .cls-11, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-14, .cls-13, .cls-15, .cls-10, .cls-16, .cls-3, .cls-17 {
+        stroke: #fff;
+      }
+
+      .cls-14, .cls-13, .cls-15, .cls-18, .cls-16, .cls-3, .cls-11, .cls-17 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-14, .cls-15, .cls-16, .cls-3, .cls-17 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-14, .cls-18 {
+        fill: #b9b9b9;
+      }
+
+      .cls-19 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13, .cls-18 {
+        stroke-width: 6px;
+      }
+
+      .cls-15 {
+        fill: #ff80c0;
+      }
+
+      .cls-20, .cls-5, .cls-6 {
+        font-family: Inter-Bold, Inter;
+        font-size: 12px;
+      }
+
+      .cls-10 {
+        stroke-dasharray: 6;
+      }
+
+      .cls-18 {
+        stroke: #b9b9b9;
+      }
+
+      .cls-16 {
+        fill: #df8600;
+      }
+
+      .cls-21 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-17 {
+        fill: #706f6f;
+      }
+    </style>
+  </defs>
+  <rect class="cls-12" width="384" height="384"/>
+  <g id="Lines">
+    <g id="Lines-2" data-name="Lines">
+      <g id="Line_2_-_Lime_GREAT_" data-name="Line 2 - Lime (GREAT)">
+        <line class="cls-11" x1="59.5" y1="70.51" x2="275.5" y2="70.51"/>
+        <polyline class="cls-9" points="324.5 70.51 275.5 70.51 275.5 306.51"/>
+      </g>
+    </g>
+    <g id="WIP">
+      <line id="Lime_WIP" data-name="Lime WIP" class="cls-10" x1="275.5" y1="70.51" x2="330.5" y2="70.51"/>
+    </g>
+    <g id="Stations">
+      <g id="Integrations">
+        <g id="Faux_Plains_GREAT" data-name="Faux Plains GREAT">
+          <rect class="cls-18" x="264" y="305.01" width="24" height="11" rx="5.5" ry="5.5" transform="translate(-34.51 586.51) rotate(-90)"/>
+          <rect class="cls-13" x="263.23" y="305.01" width="24" height="11" rx="5.5" ry="5.5" transform="translate(-35.28 585.73) rotate(-90)"/>
+          <circle class="cls-16" cx="275" cy="317.01" r="5.5"/>
+          <circle class="cls-3" cx="275" cy="304.01" r="5.5"/>
+        </g>
+        <g>
+          <rect class="cls-18" x="36" y="72.01" width="48" height="11" rx="5.5" ry="5.5" transform="translate(-17.51 137.51) rotate(-90)"/>
+          <rect class="cls-13" x="35.23" y="72.01" width="48" height="11" rx="5.5" ry="5.5" transform="translate(-18.28 136.73) rotate(-90)"/>
+          <circle class="cls-17" cx="59" cy="96.01" r="5.5"/>
+          <circle class="cls-15" cx="59" cy="83.99" r="5.5"/>
+          <circle class="cls-3" cx="59" cy="71.01" r="5.5"/>
+          <circle class="cls-14" cx="59" cy="59.01" r="5.5"/>
+        </g>
+      </g>
+      <g id="Line_2" data-name="Line 2">
+        <g>
+          <circle class="cls-12" cx="275.5" cy="70.51" r="5.25"/>
+          <path class="cls-2" d="M275.5,66.01c2.48,0,4.5,2.02,4.5,4.5s-2.02,4.5-4.5,4.5-4.5-2.02-4.5-4.5,2.02-4.5,4.5-4.5M275.5,64.51c-3.31,0-6,2.69-6,6s2.69,6,6,6,6-2.69,6-6-2.69-6-6-6h0Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Text">
+    <text class="cls-4" transform="translate(30.25 40.51)"><tspan class="cls-20"><tspan x="0" y="0">Bela Vis</tspan><tspan class="cls-19" x="47.08" y="0">t</tspan><tspan x="51.53" y="0">a</tspan></tspan><tspan class="cls-1"><tspan x="5.17" y="7.2">GRE</tspan><tspan class="cls-7" x="17.29" y="7.2">A</tspan><tspan x="21.23" y="7.2">T &amp; Belat</tspan><tspan class="cls-8" x="47.35" y="7.2">r</tspan><tspan x="49.65" y="7.2">o</tspan></tspan></text>
+    <text class="cls-5" transform="translate(241.74 343.49)"><tspan class="cls-21" x="0" y="0">F</tspan><tspan x="6.84" y="0">aux Plains</tspan></text>
+    <text class="cls-5" transform="translate(263.67 56.51)"><tspan x="0" y="0">Neo</tspan></text>
+  </g>
+  <g id="Box_Things" data-name="Box Things">
+    <g id="Line_2-2" data-name="Line 2">
+      <rect class="cls-2" x="251.5" y="82.51" width="12" height="12"/>
+      <text class="cls-6" transform="translate(253.72 92.51)"><tspan x="0" y="0">2</tspan></text>
+    </g>
+  </g>
+</svg>
